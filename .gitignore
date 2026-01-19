@@ -1,0 +1,8 @@
+# Ignore Executables
+*.exe
+*.out
+*.o
+
+# Ignore Editor Settings
+.vscode/
+.idea/
