@@ -7,6 +7,8 @@ A robust, menu-driven Command Line Interface (CLI) for performing advanced 1D ar
 ## 📖 Overview
 This project is a comprehensive toolkit designed to manipulate arrays efficiently using **pointers** and **modular architecture**. Unlike standard single-file scripts, this project is structured into header and source files to demonstrate clean code organization, low-level memory management, and robust input validation.
 
+<img width="1920" height="776" alt="demo_screenshot" src="https://github.com/user-attachments/assets/c8ffc4ad-a741-4199-9b06-b9e5fe4bb5ae" />
+
 ## ✨ Key Features
 * **Modular Design:** Clean separation of concerns using `.h` interface and `.c` implementation files.
 * **Memory Safety:** Includes bounds checking (`CAPACITY` limits) and input validation to prevent buffer overflows.
@@ -37,6 +39,7 @@ This project is a comprehensive toolkit designed to manipulate arrays efficientl
 
 ### Prerequisites
 You need a C compiler (like GCC) installed.
+
 
 ### Compilation
 Since the project is modular, compile the main driver with the toolkit source:
