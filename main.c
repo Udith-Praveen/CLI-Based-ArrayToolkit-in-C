@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include "array_toolkit.h"
+/*
+ * Author: Udith Praveen
+ * Description: Main entry point for the Array Toolkit CLI.
+ * Demonstrates modular C design and pointer arithmetic.
+ */
 
 int main(){
     int n, arr[CAPACITY],reply;
@@ -138,3 +143,4 @@ int main(){
         }
     }
 }
+
